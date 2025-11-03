@@ -490,7 +490,7 @@ a { /* Style all anchor tags */
 .live-project-btn.coming-soon{
     background: linear-gradient(135deg, #ffa726 0%, #ff7043 100%);
     box-shadow: 0 4px 15px rgba(255, 167, 38, 0.4);
-    cursor: not-allowed;
+    /* cursor: not-allowed; */
 }
 
 .live-project-btn.coming-soon:hover{
